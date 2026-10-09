@@ -1,0 +1,5 @@
+tenacity>=9.0
+pybreaker>=1.2
+limits>=4.0
+fastapi>=0.110
+uvicorn>=0.29
